@@ -195,8 +195,8 @@ void copy_background_submap_to_tileset(SCRIPT_CTX * THIS) OLDCALL BANKED {
 			#ifdef CGB
 				if (_is_CGB) {			
 					
-					UBYTE dest_attr = ReadBankedUBYTE(image_attr_ptr + (dest_offset + j), image_attr_bank);	
-					UBYTE source_attr = ReadBankedUBYTE(tilemap_attr_ptr + (source_offset + j), bkg.cgb_tilemap_attr.bank);
+					UBYTE dest_attr = ReadBankedUBYTE(image_attr_ptr + (uint16_t)(dest_offset + j), image_attr_bank);	
+					UBYTE source_attr = ReadBankedUBYTE(tilemap_attr_ptr + (uint16_t)(source_offset + j), bkg.cgb_tilemap_attr.bank);
 					if (copy_attributes){						
 						VBK_REG = 1; 
 						if (copy_attributes == 1){
