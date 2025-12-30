@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "63a50906-9648-44ee-85da-e712186dff8b",
+  "_index": 10,
+  "type": "TOPDOWN",
+  "name": "PokemonFront1",
+  "symbol": "scene_11",
+  "x": 472,
+  "y": 280,
+  "width": 21,
+  "height": 7,
+  "backgroundId": "eaac5a7a-944f-4cc4-84db-945c1cbb68ae",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0093+"
+}

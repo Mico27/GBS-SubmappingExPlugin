@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "fc206f52-c9b3-41f6-9cb9-2d3fa70fd94f",
+  "_index": 12,
+  "type": "TOPDOWN",
+  "name": "PokemonFront3",
+  "symbol": "scene_13",
+  "x": 472,
+  "y": 440,
+  "width": 21,
+  "height": 7,
+  "backgroundId": "2ad49874-7363-450e-ae17-162f600f73a8",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0093+"
+}

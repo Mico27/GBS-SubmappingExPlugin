@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "520ba483-d93d-4d2c-930c-317d901f53d6",
+  "_index": 6,
+  "type": "TOPDOWN",
+  "name": "PokemonBack4",
+  "symbol": "scene_7",
+  "x": 312,
+  "y": 520,
+  "width": 18,
+  "height": 6,
+  "backgroundId": "9c17bd3e-9fe1-4683-979a-a0e9e95f0646",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "006c+"
+}

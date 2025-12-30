@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "2ebcc388-8d11-4cc2-9017-2677a1256dcb",
+  "_index": 4,
+  "type": "TOPDOWN",
+  "name": "PokemonBack2",
+  "symbol": "scene_5",
+  "x": 312,
+  "y": 360,
+  "width": 18,
+  "height": 6,
+  "backgroundId": "fc12233c-f844-4414-9a56-0503ef95480f",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "006c+"
+}

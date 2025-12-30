@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "b162eac3-33c9-4e33-af53-5419fd1fcf14",
+  "_index": 9,
+  "type": "TOPDOWN",
+  "name": "PokemonBack7",
+  "symbol": "scene_10",
+  "x": 312,
+  "y": 760,
+  "width": 12,
+  "height": 6,
+  "backgroundId": "86894806-e089-4799-bbfa-792609b83eae",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0048+"
+}

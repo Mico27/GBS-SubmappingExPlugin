@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "3963a20b-5c6b-4fd3-99ec-22771be86b72",
+  "_index": 13,
+  "type": "TOPDOWN",
+  "name": "PokemonFront4",
+  "symbol": "scene_14",
+  "x": 472,
+  "y": 520,
+  "width": 21,
+  "height": 7,
+  "backgroundId": "9ea9aee4-6abf-40dd-b9fc-9e1d36f34f09",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0093+"
+}

@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "9ad8fb72-0850-4cfa-bfea-e97e52b36aed",
+  "_index": 11,
+  "type": "TOPDOWN",
+  "name": "PokemonFront2",
+  "symbol": "scene_12",
+  "x": 472,
+  "y": 360,
+  "width": 21,
+  "height": 7,
+  "backgroundId": "3020b57f-4dda-4ee5-9dfe-bf73798e9443",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0093+"
+}

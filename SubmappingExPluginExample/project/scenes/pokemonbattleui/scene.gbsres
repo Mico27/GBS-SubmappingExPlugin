@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "cc89d89b-3d21-44ec-9850-63e2cda8dbdc",
+  "_index": 2,
+  "type": "TOPDOWN",
+  "name": "PokemonBattleUI",
+  "symbol": "scene_3",
+  "x": 128,
+  "y": 456,
+  "width": 20,
+  "height": 40,
+  "backgroundId": "f7b024a9-ecf5-487c-b624-f3f7f43b9acc",
+  "tilesetId": "f21d7b04-32df-45a8-99a5-52fdcc5182ed",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "00320+"
+}

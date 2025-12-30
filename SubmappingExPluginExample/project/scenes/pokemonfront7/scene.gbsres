@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "17de3d01-d7f0-467d-927f-193f7bc8d670",
+  "_index": 16,
+  "type": "TOPDOWN",
+  "name": "PokemonFront7",
+  "symbol": "scene_17",
+  "x": 472,
+  "y": 760,
+  "width": 14,
+  "height": 7,
+  "backgroundId": "33ffe7a8-ae2f-4bbf-b981-6c9b98475d79",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0062+"
+}

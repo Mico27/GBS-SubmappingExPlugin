@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f7b024a9-ecf5-487c-b624-f3f7f43b9acc",
+  "name": "Pokemon_Battle_UI_1",
+  "symbol": "bg_pokemon_battle_ui_1",
+  "tileColors": "",
+  "filename": "Pokemon_Battle_UI_1.png",
+  "width": 20,
+  "height": 40,
+  "imageWidth": 160,
+  "imageHeight": 320
+}

@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "dde62a05-785a-4d2d-96ca-409423d48f79",
+  "_index": 14,
+  "type": "TOPDOWN",
+  "name": "PokemonFront5",
+  "symbol": "scene_15",
+  "x": 472,
+  "y": 600,
+  "width": 21,
+  "height": 7,
+  "backgroundId": "43d1524e-efd6-4f7a-94be-d6d5063fec96",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0093+"
+}

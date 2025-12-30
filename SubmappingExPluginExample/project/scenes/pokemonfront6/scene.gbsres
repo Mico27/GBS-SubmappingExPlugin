@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "c21ea42e-1ec5-4a42-ac4c-cf691fabdf29",
+  "_index": 15,
+  "type": "TOPDOWN",
+  "name": "PokemonFront6",
+  "symbol": "scene_16",
+  "x": 472,
+  "y": 680,
+  "width": 21,
+  "height": 7,
+  "backgroundId": "243a2713-6d5f-488e-9e03-694a153e9d8c",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0093+"
+}

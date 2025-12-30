@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "43d1524e-efd6-4f7a-94be-d6d5063fec96",
+  "name": "pokemon_portaits_5",
+  "symbol": "bg_pokemon_portaits_5",
+  "tileColors": "",
+  "filename": "pokemon_portaits_5.png",
+  "width": 21,
+  "height": 7,
+  "imageWidth": 168,
+  "imageHeight": 56
+}
