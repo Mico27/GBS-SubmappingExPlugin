@@ -1,6 +1,8 @@
 # GBS-SubmappingExPlugin
  Plugin for partialy copying a scene to the overlay or background
+ 
  Also added events to set background/overlay tiles individualy
+ 
  Changes to tiles using this method will reset if gone offscreen (except for changes to the overlay or using the "Copy scene submap to background tileset" event)
 
 "Copy scene submap to background" will copy a section of the tilemap at a specified scene into the active scene background.
