@@ -1,6 +1,7 @@
 # GBS-SubmappingExPlugin
  Plugin for partialy copying a scene to the overlay or background
  Also added events to set background/overlay tiles individualy
+ Changes to tiles using this method will reset if gone offscreen (except for changes to the overlay or using the "Copy scene submap to background tileset" event)
 
 "Copy scene submap to background" will copy a section of the tilemap at a specified scene into the active scene background.
 You can submap from the same scene as the active scene. Submapping from a different scene require both scene to have a matching common tileset.
@@ -22,5 +23,14 @@ The "Replace tileset Tiles" event is from the plugin https://github.com/Mico27/g
 <img width="671" height="319" alt="image" src="https://github.com/user-attachments/assets/6de1d336-fbcc-4eb8-958d-3ed1a3fa308c" />
 
 "Copy scene submap to background tileset" will make each unique tiles in the active scene background within the section specified to be replaced by tile data from a specified scene's section.
+Changes to tiles using this method will not get reset if going offscreen.
 
 <img width="671" height="209" alt="image" src="https://github.com/user-attachments/assets/7b1da59c-67bf-4e2c-baed-028d95bce558" />
+
+"Set background tile" will replace a tile on the background to the specified tileset id. Unlike the "Replace tile at position" event, this will not replace all instances of the same tile.
+
+<img width="666" height="92" alt="image" src="https://github.com/user-attachments/assets/b1aa6367-4cb4-4424-a0fe-e7bacc890903" />
+
+"Set overlay tile" is the same as "Set background tile" except it will affect the overlay.
+
+<img width="669" height="92" alt="image" src="https://github.com/user-attachments/assets/fb9876d8-88d7-49fb-8502-596ba2423d02" />
