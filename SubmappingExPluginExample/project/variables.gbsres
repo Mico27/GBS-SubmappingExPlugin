@@ -10,6 +10,16 @@
       "id": "1",
       "name": "CurrentFrontId",
       "symbol": "var_currentfrontid"
+    },
+    {
+      "id": "2",
+      "name": "PosX",
+      "symbol": "var_posx"
+    },
+    {
+      "id": "3",
+      "name": "PosY",
+      "symbol": "var_posy"
     }
   ],
   "constants": []

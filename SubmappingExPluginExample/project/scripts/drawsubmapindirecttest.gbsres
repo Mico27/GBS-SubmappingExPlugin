@@ -1,0 +1,54 @@
+{
+  "_resourceType": "script",
+  "id": "fba077f9-47a0-45f9-855e-7df50c902cbe",
+  "name": "DrawSubmapIndirectTest",
+  "description": "",
+  "variables": {
+    "V0": {
+      "id": "V0",
+      "name": "PosX",
+      "passByReference": true
+    },
+    "V1": {
+      "id": "V1",
+      "name": "PosY",
+      "passByReference": true
+    }
+  },
+  "actors": {},
+  "symbol": "script_3",
+  "script": [
+    {
+      "command": "EVENT_COPY_BKG_SUBMAP_TO_BKG",
+      "args": {
+        "sceneId": "cc89d89b-3d21-44ec-9850-63e2cda8dbdc",
+        "source_x": {
+          "type": "number",
+          "value": 1
+        },
+        "source_y": {
+          "type": "number",
+          "value": 10
+        },
+        "dest_x": {
+          "type": "variable",
+          "value": "V0"
+        },
+        "dest_y": {
+          "type": "variable",
+          "value": "V1"
+        },
+        "w": {
+          "type": "number",
+          "value": 10
+        },
+        "h": {
+          "type": "number",
+          "value": 3
+        },
+        "__collapse": false
+      },
+      "id": "06f3203e-b243-439e-8df7-8bf86e184a0b"
+    }
+  ]
+}
